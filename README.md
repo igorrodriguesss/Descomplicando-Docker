@@ -1,3 +1,3 @@
 # Descomplicando-Docker
 
-### Pastas com meus Dockerfiles e Docker-composes
+### Pastas com meus Dockerfiles e Docker-composes realizados no curso.
